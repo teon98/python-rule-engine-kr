@@ -378,3 +378,6 @@ Rule Engine에서는 Rule 객체의 상태를 확인하거나, 작성한 규칙�
 
     이 기능은 조건이 복잡한 Rule을 디버깅할 때 도움이 된다.<br/>
     단, 이 기능을 사용하려면 Python의 `graphviz` 패키지가 설치되어 있어야 한다.
+
+(참고)
+https://zerosteiner.github.io/rule-engine/getting_started.html
